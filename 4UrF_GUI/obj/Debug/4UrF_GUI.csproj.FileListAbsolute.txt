@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\bin\Debug\4UrF_GUI.exe
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\bin\Debug\4UrF_GUI.pdb
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\4UrF_GUI.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\_4UrF_GUI.Connector.resources
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\_4UrF_GUI.Properties.Resources.resources
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\4UrF_GUI.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\4UrF_GUI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\4UrF_GUI.exe
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF_GUI\obj\Debug\4UrF_GUI.pdb

@@ -1,0 +1,7 @@
+C:\Users\MONSTERMC\Desktop\4UrF\Server\bin\Debug\Server.exe.config
+C:\Users\MONSTERMC\Desktop\4UrF\Server\bin\Debug\Server.exe
+C:\Users\MONSTERMC\Desktop\4UrF\Server\bin\Debug\Server.pdb
+C:\Users\MONSTERMC\Desktop\4UrF\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\4UrF\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\4UrF\Server\obj\Debug\Server.exe
+C:\Users\MONSTERMC\Desktop\4UrF\Server\obj\Debug\Server.pdb

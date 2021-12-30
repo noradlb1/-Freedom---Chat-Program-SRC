@@ -1,0 +1,7 @@
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\bin\Debug\4UrF.exe.config
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\bin\Debug\4UrF.exe
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\bin\Debug\4UrF.pdb
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\obj\Debug\4UrF.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\obj\Debug\4UrF.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\obj\Debug\4UrF.exe
+C:\Users\MONSTERMC\Desktop\4UrF\4UrF\obj\Debug\4UrF.pdb
